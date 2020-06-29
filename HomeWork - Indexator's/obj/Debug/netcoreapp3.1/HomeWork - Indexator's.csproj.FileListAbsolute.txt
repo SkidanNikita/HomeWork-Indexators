@@ -1,0 +1,13 @@
+C:\Users\1\source\repos\HomeWork - Indexator's\HomeWork - Indexator's\bin\Debug\netcoreapp3.1\HomeWork - Indexator's.exe
+C:\Users\1\source\repos\HomeWork - Indexator's\HomeWork - Indexator's\bin\Debug\netcoreapp3.1\HomeWork - Indexator's.deps.json
+C:\Users\1\source\repos\HomeWork - Indexator's\HomeWork - Indexator's\bin\Debug\netcoreapp3.1\HomeWork - Indexator's.runtimeconfig.json
+C:\Users\1\source\repos\HomeWork - Indexator's\HomeWork - Indexator's\bin\Debug\netcoreapp3.1\HomeWork - Indexator's.runtimeconfig.dev.json
+C:\Users\1\source\repos\HomeWork - Indexator's\HomeWork - Indexator's\bin\Debug\netcoreapp3.1\HomeWork - Indexator's.dll
+C:\Users\1\source\repos\HomeWork - Indexator's\HomeWork - Indexator's\bin\Debug\netcoreapp3.1\HomeWork - Indexator's.pdb
+C:\Users\1\source\repos\HomeWork - Indexator's\HomeWork - Indexator's\obj\Debug\netcoreapp3.1\HomeWork - Indexator's.csprojAssemblyReference.cache
+C:\Users\1\source\repos\HomeWork - Indexator's\HomeWork - Indexator's\obj\Debug\netcoreapp3.1\HomeWork - Indexator's.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\HomeWork - Indexator's\HomeWork - Indexator's\obj\Debug\netcoreapp3.1\HomeWork - Indexator's.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\HomeWork - Indexator's\HomeWork - Indexator's\obj\Debug\netcoreapp3.1\HomeWork - Indexator's.AssemblyInfo.cs
+C:\Users\1\source\repos\HomeWork - Indexator's\HomeWork - Indexator's\obj\Debug\netcoreapp3.1\HomeWork - Indexator's.dll
+C:\Users\1\source\repos\HomeWork - Indexator's\HomeWork - Indexator's\obj\Debug\netcoreapp3.1\HomeWork - Indexator's.pdb
+C:\Users\1\source\repos\HomeWork - Indexator's\HomeWork - Indexator's\obj\Debug\netcoreapp3.1\HomeWork - Indexator's.genruntimeconfig.cache
